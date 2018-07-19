@@ -1,6 +1,6 @@
 # Insight UI
 
-A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/BTXinsight/bitcore-node-btx) using the [BitCore Insight API](https://github.com/BTXinsight/insight-api-btx).
+A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/LIMXTEC/bitcore-node-btx) using the [BitCore Insight API](https://github.com/LIMXTEC/insight-api-btx).
 
 ## Quick Start
 
